@@ -1,0 +1,141 @@
+#swape{
+	background-color: #09090d;
+	padding: 5%;
+}
+
+.pretitle{
+	color: #EDB44D;
+	font-size: 27px;
+	padding-top: 5%;
+}
+#swape h1{
+	font-size: 85px;
+	font-weight: 600;
+}
+
+button{
+	background-color: #2E2E2E;
+	border: 0;
+	color: aliceblue;
+	border-radius: 30px;
+	padding: 4%;
+	padding-left: 8%;
+	padding-right: 8%;
+	margin-top: 10%;
+}
+#features{
+	background-color: #101117;
+	text-align: center;
+}
+.subtitle{
+	font-size: 45px;
+	font-weight: 600;
+}
+#features p{
+	
+}
+.icon{
+	font-size: 40px;
+	color: #EDB44D;
+}
+
+
+
+#features h4{
+	padding-top: 8%;
+	text-align: left;
+}
+.textopeq{
+	font-size: 17px;
+}
+.circulo{
+	border-radius: 100px;
+	background-color: #EDB44D;
+	padding: 3%;
+	margin: 3%;
+	font-size: 33px;
+}
+
+#feature2{
+	background-color: #121520;
+}
+.textopeq2{
+	font-size: 15px;
+	text-align: right;
+}
+
+.left{
+	text-align: right;
+}
+.right{
+	text-align: left;
+}
+ .textopeq3{
+	font-size: 15px;
+	text-align: left;
+}
+#redes{
+	background-color:  #151721;
+	padding-top: 5%;
+	align-content: center;
+	text-align: center;
+	padding-bottom: 5%;
+}
+button .boton{
+	align-content: center;
+	background-color: aliceblue;
+}
+.btn{
+	background-color: #000000;
+	border-radius: 50px;
+	padding: 10px;
+	margin: 6%;
+	padding-right: 3%;
+	padding-left: 3%;
+}
+
+#get{
+	background-color: #101117;
+	text-align: center;
+	padding: 6%;
+}
+
+#get p{
+	font-size: 17px;
+	text-align: left;
+}
+#get h4{
+	font-size: 37px;
+	text-align: left;
+	color: #EDB44D;
+	font-weight: 800;
+}
+#screenshots{
+	background-color: #101117;
+	text-align: center;
+	padding-top: 6%;
+}
+#screenshots h4{
+	color: #EDB44D;
+	font-family: 'Varela Round', sans-serif;
+}
+.red{
+	font-size: 27px;
+	padding-right: 3%;
+}
+
+#contact{
+	background-color: #151721;
+	padding: 6%;
+}
+.redes{
+	font-size: 52px;
+	text-align: center;
+}
+footer{
+	background-color: #040406;
+	color: #373946;
+	padding-top: 5%;
+	text-align: center;
+	padding-bottom: 2%
+}
